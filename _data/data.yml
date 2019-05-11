@@ -63,6 +63,14 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
 
       Second paragraph if required.
+      I am a PhD student at the
+      [Wellcome/EPSRC Centre for Interventional and Surgical Sciences]
+      (https://www.ucl.ac.uk/interventional-surgical-sciences/)
+      (University College London)
+      and the
+      [School of Biomedical Engineering & Imaging Sciences]
+      (https://www.kcl.ac.uk/bmeis)
+      (King's College London).
 
 education:
 
@@ -70,6 +78,7 @@ education:
       university: University College London
       time: 2018 - present
       details: |
+
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -177,10 +186,10 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: #>
+      # You can list your side projects or open source libraries in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Velocity
