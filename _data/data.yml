@@ -7,41 +7,50 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Fernando Pérez'García
+    tagline: PhD Student in Medical Imaging
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: fernando.perezgarcia.17@ucl.ac.uk
+    phone: #012 345 6789
+    website: #blog.webjeda.com #do not add http://
+    linkedin: fernandoperezgarcia
+    github: fepegar
+    gitlab: fepegar
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@fepegar_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
+
+      - idiom: English
+        level: Professional
 
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Intermediate
+
+      - idiom: Italian
+        level: Intermediate
+
+      - idiom: Chinese
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Football
         link:
 
-      - item: Cooking
+      - item: Cinema
         link:
 
 career-profile:
@@ -56,9 +65,10 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+
+    - degree: PhD in Medical Imaging
+      university: University College London
+      time: 2018 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +79,48 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MRes in Medical Image Computing
+      university: University College London
+      time: 2017 - 2018
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - degree: MEng in Biomedical Engineering
+      university: Universidad Politécnica de Madrid
+      time: 2018 - present
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - degree: BEng Sound and Image Engineering
+      university: Universidad Politécnica de Madrid
+      time: 2009 - 2014
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - degree: BEng Industrial Electronics Engineering
+      university: Universidad Pontificia Comillas (ICAI)
+      time: 2007 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
