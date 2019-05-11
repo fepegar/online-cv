@@ -184,7 +184,7 @@ projects:
 
     assignments:
       - title: Velocity
-        link: "www.google.com"
+        link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
