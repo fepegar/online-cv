@@ -43,15 +43,18 @@ sidebar:
       - idiom: Chinese
         level: Beginner
 
+      - idiom: Arabic
+        level: Beginner
+
     interests:
-      - item: Music
+      - item: Playing guitar and trumpet
         link:
 
-      - item: Football
+      - item: Playing football
         link:
 
-      - item: Cinema
-        link:
+      - item: Creative coding
+        link: https://fepegar.github.io/creative-coding/
 
 career-profile:
     title: About Me
@@ -233,4 +236,4 @@ skills:
         level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
